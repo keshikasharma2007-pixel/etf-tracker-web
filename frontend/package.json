@@ -1,0 +1,26 @@
+{
+  "name": "etf-tracker-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "World of ETFs — monorepo for frontend and backend",
+  "packageManager": "pnpm@8.10.0",
+  "scripts": {
+    "dev:backend": "pnpm --filter backend dev",
+    "dev:frontend": "pnpm --filter frontend dev",
+    "build:backend": "pnpm --filter backend build",
+    "build:frontend": "pnpm --filter frontend build"
+  },
+  "pnpm": {
+    "workspaces": [
+      "backend",
+      "frontend"
+    ]
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3"
+  },
+  "dependencies": {
+    "lucide-react": "^1.17.0"
+  }
+}

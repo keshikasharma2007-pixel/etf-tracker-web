@@ -14,9 +14,9 @@ This project solves the problem of quickly identifying ETFs that are trading bel
 - Clear separation between API, business logic, and presentation
 
 ## Web Images
-<img width="1724" height="982" alt="Screenshot 2026-06-10 at 9 19 49 PM" src="https://github.com/user-attachments/assets/d429a1b5-dfd0-4385-8f15-687fd1cd7cf0" />
-<img width="1724" height="982" alt="Screenshot 2026-06-10 at 9 20 11 PM" src="https://github.com/user-attachments/assets/a3065c61-3fab-4f36-8f74-a7720531bae6" />
-<img width="1724" height="982" alt="Screenshot 2026-06-10 at 9 20 01 PM" src="https://github.com/user-attachments/assets/032c9b94-b747-4bfe-8372-56c403ca531e" />
+<img width="500" height="285" alt="Screenshot 2026-06-10 at 9 19 49 PM" src="https://github.com/user-attachments/assets/d429a1b5-dfd0-4385-8f15-687fd1cd7cf0" />
+<img width="500" height="285" alt="Screenshot 2026-06-10 at 9 20 11 PM" src="https://github.com/user-attachments/assets/a3065c61-3fab-4f36-8f74-a7720531bae6" />
+<img width="500" height="285" alt="Screenshot 2026-06-10 at 9 20 01 PM" src="https://github.com/user-attachments/assets/032c9b94-b747-4bfe-8372-56c403ca531e" />
 
 ## Project Structure
 

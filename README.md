@@ -1,6 +1,6 @@
-# ETF Tracker Web
+# ETF Analytics Platform
 
-ETF Tracker Web is a full-stack ETF analysis dashboard designed to surface attractive buy signals from live market data. The backend pulls pricing and historical data from Yahoo Finance, calculates each ETF's discount to its 20-day moving average, and stores the results in Redis. The frontend turns that data into a clean dashboard with ranked opportunities, allocation guidance, and market status at a glance.
+This is a full-stack ETF analysis dashboard designed to surface attractive buy signals from live market data. The backend pulls pricing and historical data from Yahoo Finance, calculates each ETF's discount to its 20-day moving average, and stores the results in Redis. The frontend turns that data into a clean dashboard with ranked opportunities, allocation guidance, and market status at a glance.
 
 ## Problem Solved
 This project solves the problem of quickly identifying ETFs that are trading below their recent trend and surfacing the best potential entry points in a single dashboard. Instead of manually checking market data and doing calculations in a spreadsheet, the app automates the analysis, ranks the opportunities, and keeps the results fresh through caching and scheduled refreshes.
